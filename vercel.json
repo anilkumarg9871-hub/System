@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/igris/chat",
+      "destination": "/api/igris/chat"
+    },
+    {
+      "source": "/api/igris/scan",
+      "destination": "/api/igris/scan"
+    }
+  ]
+}
